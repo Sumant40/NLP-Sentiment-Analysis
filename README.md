@@ -26,8 +26,8 @@ tagging at scale?
 - **Full size:** 568,454 reviews (2002â€“2012)
 - **Used:** 20,000 reviews (stratified sample for speed)
 - **Target variable:** Sentiment derived from star rating
-  - Positive: 4â€“5 stars
-  - Negative: 1â€“2 stars
+  - Positive: 4-5 stars
+  - Negative: 1-2 stars
   - Neutral (3 stars): removed from analysis
 
 | Class    | Count  | % of sample |
