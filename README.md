@@ -249,22 +249,6 @@ At 100,000 reviews/month, the Logistic Regression model can:
 
 ---
 
-## Visualisations
-
-### WordCloud â€” positive reviews
-![Positive WordCloud](outputs/figures/wordcloud_positive.png)
-
-### WordCloud â€” negative reviews
-![Negative WordCloud](outputs/figures/wordcloud_negative.png)
-
-### Top 15 features â€” Logistic Regression
-![Top Features](outputs/figures/top_features_positive.png)
-
-### Confusion matrix â€” Logistic Regression
-![Confusion Matrix](outputs/figures/confusion_matrix_lr.png)
-
----
-
 ## Interactive Prediction
 
 Test the model on any custom review text:
