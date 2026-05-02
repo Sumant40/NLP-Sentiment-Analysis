@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+wordcloud
+transformers
+torch
+joblib
+streamlit
+fastapi
+uvicorn
