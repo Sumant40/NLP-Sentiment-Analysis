@@ -1,4 +1,4 @@
-﻿# Amazon Review Sentiment Classifier â€” NLP Project
+﻿# Amazon Review Sentiment Classifier NLP Project
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue)
 ![NLP](https://img.shields.io/badge/NLP-TF--IDF%20%7C%20DistilBERT-orange)
