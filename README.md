@@ -269,7 +269,7 @@ predict("It is okay, nothing special but does the job.")
 ## How to Run
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/nlp-sentiment-analysis.git
+git clone https://github.com/Sumant40/NLP-Sentiment-Analysis.git
 cd nlp-sentiment-analysis
 pip install -r requirements.txt
 
